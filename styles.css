@@ -17,7 +17,7 @@ body{
 .main{
 
   padding: 5% 15%;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bolder;
   color: #1F1D36;
 }
@@ -34,7 +34,7 @@ background-color:#105652;
 }
 @media (max-width:720px){
   .main{
-    font-size: 1.5rem;
+    font-size: 1rem;
 
   }
 }
