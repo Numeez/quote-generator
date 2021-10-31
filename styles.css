@@ -10,12 +10,12 @@ body{
 .main-container{
 
   padding: 7% 15%;
-  margin-top: 50px;
+  margin-top: 40px;
   text-align: center;
   position: relative;
 }
 .main{
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   padding: 7% 15%;
   font-size: 2rem;
   font-weight: bolder;
