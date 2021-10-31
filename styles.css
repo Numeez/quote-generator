@@ -35,6 +35,10 @@ background-color:#105652;
 @media (max-width:720px){
   .main{
     font-size: 1rem;
+    
 
+  }
+  .main-button{
+  font-size:0.5rem;
   }
 }
