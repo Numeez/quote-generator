@@ -29,6 +29,9 @@ font-weight: bolder;
 border: 2px solid white;
 
 }
+.main-button:hover{
+background-color:#105652;
+}
 @media (max-width:720px){
   .main{
     font-size: 1.5rem;
